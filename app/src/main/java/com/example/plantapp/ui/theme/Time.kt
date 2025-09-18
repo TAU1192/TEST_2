@@ -59,7 +59,7 @@ fun TimeCount(){
         Button(onClick = {
             showDialog = true
         }) {
-            Text("ok")
+            //Text("ok")
         }
 
         if(showDialog){
